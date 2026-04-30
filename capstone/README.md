@@ -1,16 +1,106 @@
-# React + Vite
+# 🎮 Gamified Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Gamify+Your+Tasks+🎮;Earn+XP+%7C+Level+Up+🚀;React+Project+with+Cool+UI+🔥" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 3D Visual Effect
 
-## React Compiler
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500"/>
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A **gamified task manager** built with React where productivity feels like a game.
+
+🎯 Complete tasks → Gain XP
+📈 Level up → Track progress
+🎮 Stay motivated
+
+---
+
+## ⚡ Features
+
+* 🎯 Task management
+* 🎮 XP & Level system
+* 📊 Progress tracking
+* 🌙☀️ Dark/Light mode
+* 🧩 Component-based design
+
+---
+
+## 🧊 3D Cube Style Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,css,vite&theme=dark" />
+</p>
+
+---
+
+## 🎥 Live Animated Preview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 📁 Project Structure
+
+```id="g4p2r3"
+src/
+ ├── components/
+ │    ├── Navbar.jsx
+ │    ├── Taskinput.jsx
+ │    ├── Tasklist.jsx
+ │    ├── Stats.jsx
+ │    └── ProgressBar.jsx
+ │
+ ├── App.jsx
+ ├── main.jsx
+ ├── App.css
+ └── index.css
+```
+
+---
+
+## 🚀 Run Project
+
+```bash id="m3n9x1"
+npm install
+npm run dev
+```
+
+---
+
+## 🧠 Concepts
+
+* React Hooks
+* Component Architecture
+* State Management
+* UI/UX Design
+
+---
+
+## 🔥 Extra Visual Animation
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👨‍💻 Author
+
+**Vansh Viraj  Bisht**
+
+---
+
+<p align="center">
+  🚀 “Turn your tasks into a leveling system.”
+</p>
