@@ -1,0 +1,113 @@
+/* Base */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Themes */
+.app.dark {
+  background: #0f172a;
+  color: #f1f5f9;
+  min-height: 100vh;
+}
+
+.app.light {
+  background: #f8fafc;
+  color: #0f172a;
+  min-height: 100vh;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background: #1e293b;
+  color: white;
+}
+
+.app.light .navbar {
+  background: #e2e8f0;
+  color: black;
+}
+
+/* Container */
+.container {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.app.dark .container {
+  background: #1e293b;
+}
+
+.app.light .container {
+  background: white;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+/* Input */
+input {
+  padding: 10px;
+  width: 65%;
+  margin-right: 10px;
+  border-radius: 6px;
+  border: none;
+}
+
+/* Button */
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #38bdf8;
+}
+
+button:hover {
+  background: #0ea5e9;
+}
+
+/* Task */
+.task {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.app.dark .task {
+  background: #334155;
+}
+
+.app.light .task {
+  background: #e2e8f0;
+}
+
+.task.done span {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+/* Stats */
+.stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Progress */
+.bar {
+  height: 10px;
+  background: #ccc;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+.fill {
+  height: 100%;
+  background: green;
+}
