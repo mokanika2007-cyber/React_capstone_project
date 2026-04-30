@@ -97,7 +97,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Vansh Viraj  Bisht**
+**Moksha Tyagi**
 
 ---
 
